@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<repository fileName="boarepository.xml">
+	<biddingstrategies>
+		<biddingstrategy description="Group13_BS.class" classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_BS.class"/>
+	</biddingstrategies>
+	<acceptanceconditions>
+		<acceptancecondition description="Group13_AS.class" classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_AS.class"/>
+	</acceptanceconditions>
+	<opponentmodels>
+		<opponentmodel description="Group13_OM.class" classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_OM.class"/>
+	</opponentmodels>
+	<omstrategies>
+		<omstrategy description="Group13_OMS.class" classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_OMS.class"/>
+	</omstrategies>
+</repository>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<boaPartiesList>
+    <boaparties partyName="BADASS">
+        <properties/>
+        <biddingStrategy>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_BS.class"/>
+        </biddingStrategy>
+        <acceptanceStrategy>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_AS.class"/>
+        </acceptanceStrategy>
+        <opponentModel>
+            <parameters name="l" value="0.2"/>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_OM.class"/>
+        </opponentModel>
+        <omStrategy>
+            <parameters name="t" value="1.1"/>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_OMS.class"/>
+        </omStrategy>
+    </boaparties>
+    <boaparties partyName="BOA_K2">
+        <properties/>
+        <biddingStrategy>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_BS.class"/>
+        </biddingStrategy>
+        <acceptanceStrategy>
+            <item classpath="negotiator.boaframework.acceptanceconditions.anac2011.AC_AgentK2"/>
+        </acceptanceStrategy>
+        <opponentModel>
+            <parameters name="l" value="0.2"/>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_OM.class"/>
+        </opponentModel>
+        <omStrategy>
+            <parameters name="t" value="1.1"/>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_OMS.class"/>
+        </omStrategy>
+    </boaparties>
+    <boaparties partyName="BOA_BRAM">
+        <properties/>
+        <biddingStrategy>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_BS.class"/>
+        </biddingStrategy>
+        <acceptanceStrategy>
+            <item classpath="negotiator.boaframework.acceptanceconditions.anac2011.AC_BRAMAgent"/>
+        </acceptanceStrategy>
+        <opponentModel>
+            <parameters name="l" value="0.2"/>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_OM.class"/>
+        </opponentModel>
+        <omStrategy>
+            <parameters name="t" value="1.1"/>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_OMS.class"/>
+        </omStrategy>
+    </boaparties>
+    <boaparties partyName="BOA_NiceTicForTat">
+        <properties/>
+        <biddingStrategy>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_BS.class"/>
+        </biddingStrategy>
+        <acceptanceStrategy>
+            <item classpath="negotiator.boaframework.acceptanceconditions.anac2011.AC_NiceTitForTat"/>
+        </acceptanceStrategy>
+        <opponentModel>
+            <parameters name="l" value="0.2"/>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_OM.class"/>
+        </opponentModel>
+        <omStrategy>
+            <parameters name="t" value="1.1"/>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_OMS.class"/>
+        </omStrategy>
+    </boaparties>
+    <boaparties partyName="BOA_ValueModelAgent">
+        <properties/>
+        <biddingStrategy>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_BS.class"/>
+        </biddingStrategy>
+        <acceptanceStrategy>
+            <item classpath="negotiator.boaframework.acceptanceconditions.anac2011.AC_ValueModelAgent"/>
+        </acceptanceStrategy>
+        <opponentModel>
+            <parameters name="l" value="0.2"/>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_OM.class"/>
+        </opponentModel>
+        <omStrategy>
+            <parameters name="t" value="1.1"/>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_OMS.class"/>
+        </omStrategy>
+    </boaparties>
+    <boaparties partyName="BOA_Ghaboninho">
+        <properties/>
+        <biddingStrategy>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_BS.class"/>
+        </biddingStrategy>
+        <acceptanceStrategy>
+            <item classpath="negotiator.boaframework.acceptanceconditions.anac2011.AC_Gahboninho"/>
+        </acceptanceStrategy>
+        <opponentModel>
+            <parameters name="l" value="0.2"/>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_OM.class"/>
+        </opponentModel>
+        <omStrategy>
+            <parameters name="t" value="1.1"/>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_OMS.class"/>
+        </omStrategy>
+    </boaparties>
+    <boaparties partyName="BOA_HardHeaded">
+        <properties/>
+        <biddingStrategy>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_BS.class"/>
+        </biddingStrategy>
+        <acceptanceStrategy>
+            <item classpath="negotiator.boaframework.acceptanceconditions.anac2011.AC_HardHeaded"/>
+        </acceptanceStrategy>
+        <opponentModel>
+            <parameters name="l" value="0.2"/>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_OM.class"/>
+        </opponentModel>
+        <omStrategy>
+            <parameters name="t" value="1.1"/>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_OMS.class"/>
+        </omStrategy>
+    </boaparties>
+    <boaparties partyName="BOA_TheNegotiator">
+        <properties/>
+        <biddingStrategy>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_BS.class"/>
+        </biddingStrategy>
+        <acceptanceStrategy>
+            <item classpath="negotiator.boaframework.acceptanceconditions.anac2011.AC_TheNegotiator"/>
+        </acceptanceStrategy>
+        <opponentModel>
+            <parameters name="l" value="0.2"/>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_OM.class"/>
+        </opponentModel>
+        <omStrategy>
+            <parameters name="t" value="1.1"/>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_OMS.class"/>
+        </omStrategy>
+    </boaparties>
+    <boaparties partyName="BOA_IAMHaggler">
+        <properties/>
+        <biddingStrategy>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_BS.class"/>
+        </biddingStrategy>
+        <acceptanceStrategy>
+            <item classpath="negotiator.boaframework.acceptanceconditions.anac2011.AC_IAMHaggler2011"/>
+        </acceptanceStrategy>
+        <opponentModel>
+            <parameters name="l" value="0.2"/>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_OM.class"/>
+        </opponentModel>
+        <omStrategy>
+            <parameters name="t" value="1.1"/>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_OMS.class"/>
+        </omStrategy>
+    </boaparties>
+    <boaparties partyName="Frequency Model">
+        <properties/>
+        <biddingStrategy>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_BS.class"/>
+        </biddingStrategy>
+        <acceptanceStrategy>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_AS.class"/>
+        </acceptanceStrategy>
+        <opponentModel>
+            <parameters name="l" value="0.2"/>
+            <item classpath="negotiator.boaframework.opponentmodel.HardHeadedFrequencyModel"/>
+        </opponentModel>
+        <omStrategy>
+            <parameters name="t" value="1.1"/>
+            <item classpath="C:\Users\Administrator\eclipse-workspace\masProject\bin\group13\Group13_OMS.class"/>
+        </omStrategy>
+    </boaparties>
+</boaPartiesList>
