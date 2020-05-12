@@ -17,7 +17,7 @@ You'd better check the user guide of [Genius](http://ii.tudelft.nl/genius/) befo
 
 Our agent NiceHardHeaded is in [src/group13](https://github.com/thomaswade0924/NiceHardHeaded/tree/master/src/group13). 
 
-Our report is in [src/mas2020_Group13](https://github.com/thomaswade0924/NiceHardHeaded/tree/master/src/mas2020_Group13).
+Our report is in [src/mas2020_Group13](https://github.com/thomaswade0924/NiceHardHeaded/blob/master/src/mas2020_Group13/Group13_report.pdf).
 
 ## Agent structure
 
